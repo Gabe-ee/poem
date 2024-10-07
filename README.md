@@ -1,4 +1,4 @@
 # poem
 ## Aurthor: Gabriella
 ## Description :
-Here is my first Githun Repo
+Here is my first GitHub Repo
